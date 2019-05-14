@@ -1,9 +1,9 @@
 # Database_Project
 기본적인 SQL문 처리가 가능한 DBMS 개발
 # how to use
-1. java file
+1. java file : 
   컴파일 후 클래스 파일 실행
-2. runnable jar file
+2. runnable jar file : 
   java -jar [file name].jar 커맨드 입력
 
 # Notice
